@@ -1,0 +1,3 @@
+to initialize a express project --> npm init -y (this will create package json)
+to install express --> npm install express   (this create node module and package lock json)
+create server.js file
